@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>C++学习笔记</title>
+    <url>//ad4f1e09.html</url>
+    <content><![CDATA[<h1 id="Coming"><a href="#Coming" class="headerlink" title="Coming"></a>Coming</h1>]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+        <tag>编程语言</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Design-Patterns</title>
     <url>//6569080d.html</url>
     <content><![CDATA[<h2 id="1-七大设计原则"><a href="#1-七大设计原则" class="headerlink" title="1 七大设计原则"></a>1 七大设计原则</h2><h3 id="1-1单一职责原则"><a href="#1-1单一职责原则" class="headerlink" title="1.1单一职责原则"></a>1.1单一职责原则</h3><p>每个类只负责一个职责</p>
@@ -48,6 +60,28 @@
       <tags>
         <tag>设计模式</tag>
         <tag>JAVA</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英语学习</title>
+    <url>//3f43dc72.html</url>
+    <content><![CDATA[<h1 id="英语译学法"><a href="#英语译学法" class="headerlink" title="英语译学法"></a>英语译学法</h1><ul>
+<li><p>借助工具书读懂文章</p>
+</li>
+<li><p>把有用的句子摘出来翻译成地道的中文</p>
+</li>
+<li><p>练习 把英语句子读熟 中英对比记住</p>
+</li>
+<li><p>复习 进行英汉对译</p>
+<a id="more"></a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>英语</tag>
+        <tag>方法</tag>
       </tags>
   </entry>
   <entry>
@@ -180,8 +214,8 @@
         <category>笔记</category>
       </categories>
       <tags>
-        <tag>Git</tag>
         <tag>工具</tag>
+        <tag>Git</tag>
       </tags>
   </entry>
   <entry>
@@ -323,6 +357,126 @@
       <tags>
         <tag>MySQL</tag>
         <tag>数据库</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你是你吃出来的 -读书笔记</title>
+    <url>//4f8eb4eb.html</url>
+    <content><![CDATA[<h1 id="七大营养素"><a href="#七大营养素" class="headerlink" title="七大营养素"></a>七大营养素</h1><h2 id="成分"><a href="#成分" class="headerlink" title="成分"></a>成分</h2><ul>
+<li>碳水化合物(糖类,包括葡萄糖 果糖 麦芽糖 淀粉等)</li>
+<li>蛋白质 (分为必需氨基酸和非必需氨基酸)</li>
+<li>脂类 (分为脂肪和类脂，脂肪又叫甘油三酯，分为必需脂肪酸和非必需脂肪酸；类脂包括磷脂、胆固醇、胆固醇脂、糖脂)</li>
+<li>维生素 (分为脂溶性 和 水溶性)</li>
+<li>矿物质 (分为常量元素和微量元素)</li>
+<li>膳食纤维 (分为可溶性和不可溶性)</li>
+<li>水</li>
+</ul>
+<a id="more"></a>   
+
+<h2 id="对细胞的作用"><a href="#对细胞的作用" class="headerlink" title="对细胞的作用"></a>对细胞的作用</h2><ul>
+<li>为细胞新陈代谢提供能量   - 碳水化合物</li>
+<li>为新生细胞更新提供结构原料 - 蛋白质类和脂类</li>
+<li>为新陈代谢提供媒介（酶） - 蛋白质类和胆固醇类 维生素和矿物质</li>
+<li>养肠道细菌 - 膳食纤维</li>
+</ul>
+<h1 id="饮食结构"><a href="#饮食结构" class="headerlink" title="饮食结构"></a>饮食结构</h1><p>植食性食物 65%  水果、蔬菜、坚果、豆类和蜂蜜</p>
+<p>动物性食物 35%  肉类、蛋类、鱼和虾贝类</p>
+<p>注重保持营养素的比例合理</p>
+<p>转化关系</p>
+<ul>
+<li><p>碳水化合物 &lt;-&gt; 脂肪</p>
+</li>
+<li><p>蛋白质 -&gt; 碳水化合物</p>
+<p>碳水化合物和脂肪只能转化为非必需氨基酸</p>
+</li>
+</ul>
+<blockquote>
+<p>必需氨基酸必须从外界获取， 无法转化得来</p>
+</blockquote>
+<p>食物吸收顺序</p>
+<ul>
+<li>碳水化合物 -&gt; 脂肪和蛋白质</li>
+</ul>
+<p>营养/能量比例：</p>
+<ul>
+<li>运动量小：底能量密度、高营养密度</li>
+<li>运动量大：高能量密度、低营养密度</li>
+</ul>
+<p>地中海式饮食： 低能量高营养、  能有效预防高血压、高血脂、糖尿病等现代慢病</p>
+<ul>
+<li>鱼类、坚果、蔬菜和水果</li>
+</ul>
+<h1 id="能量平衡"><a href="#能量平衡" class="headerlink" title="能量平衡"></a>能量平衡</h1><h2 id="能量消耗"><a href="#能量消耗" class="headerlink" title="能量消耗"></a>能量消耗</h2><ul>
+<li>基础代谢</li>
+<li>运动</li>
+<li>食物消化</li>
+</ul>
+<p>食物的消化也需要消耗能量，这被称为食物的动力效应</p>
+<ul>
+<li>蛋白质：30%</li>
+<li>碳水化合物和脂肪：5%</li>
+</ul>
+<p>产能营养素</p>
+<ul>
+<li>碳水化合物：4千卡/克</li>
+<li>脂肪： 4千卡/克</li>
+<li>蛋白质： 9千卡/克</li>
+<li><del>酒精</del>： 7千卡/克</li>
+</ul>
+<p>##　能量平衡</p>
+<ul>
+<li>能量摄入 = 能量消耗</li>
+<li>营养素比例合理</li>
+</ul>
+<p>摄入量计算</p>
+<ul>
+<li>身高体重 –标准体重计算</li>
+<li>活动量 –日消耗能量/千克</li>
+<li>三大能量的比例：蛋白质为10%～15%，脂类为20%～30%，碳水化合物为55%～65%</li>
+</ul>
+<p>计算得出每日所需三大能量数量</p>
+<p>摄入：</p>
+<ul>
+<li>碳水化合物 ： 米面、 粗粮和谷薯</li>
+<li>蛋白质：  鸡蛋、牛奶、肉类或鱼类</li>
+<li>脂肪： 植物油和动物油各一半 （鱼虾海藻多吃）</li>
+</ul>
+<h1 id="蛋白质平衡"><a href="#蛋白质平衡" class="headerlink" title="蛋白质平衡"></a>蛋白质平衡</h1><p>蛋白质是人体主要构成成分，参与修复组织损伤、身体发育</p>
+<p>动物蛋白优于植物蛋白 （大豆蛋白含量高但氨基酸不完整）</p>
+<p>氨基酸构成与人体相同的被称为优质蛋白，多为动物蛋白</p>
+<p>动物蛋白要占一半</p>
+<p>#　碳水化合物平衡</p>
+<p>作用是为人体提供能量</p>
+<p>又称之为糖类，提供的能量最多</p>
+<p>摄入主要靠谷薯杂豆等粮食类主食</p>
+<p>碳水化合物失衡表现：血糖不正常、腹部肥胖</p>
+<h1 id="脂类平衡"><a href="#脂类平衡" class="headerlink" title="脂类平衡"></a>脂类平衡</h1><p>提供热量、构建细胞膜、保护脏器（例如防止胃下垂）</p>
+<p>摄入：肉油蛋奶、植物油和坚果等</p>
+<p>应该饱和脂肪酸、单不饱和脂肪酸、多不饱和脂肪酸各占10%</p>
+<p>比较简单的配比方式是动物脂肪和植物脂肪各一半</p>
+<h1 id="维生素平衡"><a href="#维生素平衡" class="headerlink" title="维生素平衡"></a>维生素平衡</h1><p>维生素</p>
+<h1 id="矿物质平衡"><a href="#矿物质平衡" class="headerlink" title="矿物质平衡"></a>矿物质平衡</h1><p>补钙：喝牛奶、吃虾皮、芝麻、海带    吸收钙需要维生素D</p>
+<p>镁：人体的激活剂，新鲜的绿叶菜（开水闷一下）和海产品</p>
+<p>抽筋可能因为缺钙或者缺镁</p>
+<p>缺铁：口角炎、贫血   补铁： 牛肉、动物肝脏、鸡肉  Vc有助于吸收</p>
+<p>锌：发育迟缓，食欲不振   补锌：牡蛎、动物内脏</p>
+<p><img src="https://res.weread.qq.com/wrepub/epub_920661_33" alt="常量元素对照表"></p>
+<p><img src="https://res.weread.qq.com/wrepub/epub_920661_34" alt="微量元素对照表"></p>
+<h1 id="膳食纤维平衡"><a href="#膳食纤维平衡" class="headerlink" title="膳食纤维平衡"></a>膳食纤维平衡</h1><p>分为可溶性膳食纤维和不可溶性膳食纤维  可溶性为肠道细菌提供能量，不可溶性促进肠胃蠕动、降低血糖</p>
+<p>膳食纤维平衡失调的表现：肥胖、血糖高、便秘、营养不良</p>
+<p>摄入主要靠水果和蔬菜（主要叶菜类和菇类、水果连皮吃</p>
+<h1 id="水平衡"><a href="#水平衡" class="headerlink" title="水平衡"></a>水平衡</h1><p>每日饮水 1200~1500ML，根据口渴、尿的频率和颜色判断</p>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>人的身体状况平衡可分为两种：高平衡和低平衡。</p>
+<p>运动多，思考多，饮食不挑嘴，荤素通吃，能够保持标准的体重和旺盛的工作精力，这叫高平衡。</p>
+<p>不爱运动，也不爱动脑子，吃饭时每样都吃一点，也是荤素通吃，体重正常，化验正常，但是这个人的动作总像是慢半拍，有点与世无争的样子，这叫低平衡。</p>
+<p>学会倾听自己身体的语言，适量饮食</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>营养学</tag>
+        <tag>健康</tag>
       </tags>
   </entry>
   <entry>
@@ -740,9 +894,28 @@
         <category>笔记</category>
       </categories>
       <tags>
-        <tag>Rust</tag>
         <tag>编程语言</tag>
+        <tag>Rust</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>//4a17b156.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<p>​      <a id="more"></a></p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
   <entry>
     <title>Vue笔记</title>
@@ -966,25 +1139,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>//4a17b156.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<p>​      <a id="more"></a></p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Matplotlib使用</title>
     <url>//406fba42.html</url>
     <content><![CDATA[<h2 id="基本用法"><a href="#基本用法" class="headerlink" title="基本用法"></a>基本用法</h2><p>导入模块matplotlib.pyplot和numpy</p>
@@ -1048,18 +1202,6 @@
       <tags>
         <tag>python</tag>
         <tag>matplotlib</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>C++学习笔记</title>
-    <url>//ad4f1e09.html</url>
-    <content><![CDATA[<h1 id="Coming"><a href="#Coming" class="headerlink" title="Coming"></a>Coming</h1>]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>编程语言</tag>
-        <tag>C++</tag>
       </tags>
   </entry>
 </search>
