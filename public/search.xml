@@ -3,7 +3,9 @@
   <entry>
     <title>C++学习笔记</title>
     <url>//ad4f1e09.html</url>
-    <content><![CDATA[<h1 id="Coming"><a href="#Coming" class="headerlink" title="Coming"></a>Coming</h1>]]></content>
+    <content><![CDATA[<p>左值：存储在计算机内存中的对象</p>
+<p>右值：字面量</p>
+]]></content>
       <categories>
         <category>笔记</category>
       </categories>
@@ -73,8 +75,11 @@
 <li><p>练习 把英语句子读熟 中英对比记住</p>
 </li>
 <li><p>复习 进行英汉对译</p>
-<a id="more"></a></li>
+<a id="more"></a>
+
+</li>
 </ul>
+<p>用先汉语再英语的方式记录句子</p>
 ]]></content>
       <categories>
         <category>笔记</category>
@@ -82,6 +87,126 @@
       <tags>
         <tag>英语</tag>
         <tag>方法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你是你吃出来的 -读书笔记</title>
+    <url>//4f8eb4eb.html</url>
+    <content><![CDATA[<h1 id="七大营养素"><a href="#七大营养素" class="headerlink" title="七大营养素"></a>七大营养素</h1><h2 id="成分"><a href="#成分" class="headerlink" title="成分"></a>成分</h2><ul>
+<li>碳水化合物(糖类,包括葡萄糖 果糖 麦芽糖 淀粉等)</li>
+<li>蛋白质 (分为必需氨基酸和非必需氨基酸)</li>
+<li>脂类 (分为脂肪和类脂，脂肪又叫甘油三酯，分为必需脂肪酸和非必需脂肪酸；类脂包括磷脂、胆固醇、胆固醇脂、糖脂)</li>
+<li>维生素 (分为脂溶性 和 水溶性)</li>
+<li>矿物质 (分为常量元素和微量元素)</li>
+<li>膳食纤维 (分为可溶性和不可溶性)</li>
+<li>水</li>
+</ul>
+<a id="more"></a>   
+
+<h2 id="对细胞的作用"><a href="#对细胞的作用" class="headerlink" title="对细胞的作用"></a>对细胞的作用</h2><ul>
+<li>为细胞新陈代谢提供能量   - 碳水化合物</li>
+<li>为新生细胞更新提供结构原料 - 蛋白质类和脂类</li>
+<li>为新陈代谢提供媒介（酶） - 蛋白质类和胆固醇类 维生素和矿物质</li>
+<li>养肠道细菌 - 膳食纤维</li>
+</ul>
+<h1 id="饮食结构"><a href="#饮食结构" class="headerlink" title="饮食结构"></a>饮食结构</h1><p>植食性食物 65%  水果、蔬菜、坚果、豆类和蜂蜜</p>
+<p>动物性食物 35%  肉类、蛋类、鱼和虾贝类</p>
+<p>注重保持营养素的比例合理</p>
+<p>转化关系</p>
+<ul>
+<li><p>碳水化合物 &lt;-&gt; 脂肪</p>
+</li>
+<li><p>蛋白质 -&gt; 碳水化合物</p>
+<p>碳水化合物和脂肪只能转化为非必需氨基酸</p>
+</li>
+</ul>
+<blockquote>
+<p>必需氨基酸必须从外界获取， 无法转化得来</p>
+</blockquote>
+<p>食物吸收顺序</p>
+<ul>
+<li>碳水化合物 -&gt; 脂肪和蛋白质</li>
+</ul>
+<p>营养/能量比例：</p>
+<ul>
+<li>运动量小：底能量密度、高营养密度</li>
+<li>运动量大：高能量密度、低营养密度</li>
+</ul>
+<p>地中海式饮食： 低能量高营养、  能有效预防高血压、高血脂、糖尿病等现代慢病</p>
+<ul>
+<li>鱼类、坚果、蔬菜和水果</li>
+</ul>
+<h1 id="能量平衡"><a href="#能量平衡" class="headerlink" title="能量平衡"></a>能量平衡</h1><h2 id="能量消耗"><a href="#能量消耗" class="headerlink" title="能量消耗"></a>能量消耗</h2><ul>
+<li>基础代谢</li>
+<li>运动</li>
+<li>食物消化</li>
+</ul>
+<p>食物的消化也需要消耗能量，这被称为食物的动力效应</p>
+<ul>
+<li>蛋白质：30%</li>
+<li>碳水化合物和脂肪：5%</li>
+</ul>
+<p>产能营养素</p>
+<ul>
+<li>碳水化合物：4千卡/克</li>
+<li>脂肪： 4千卡/克</li>
+<li>蛋白质： 9千卡/克</li>
+<li><del>酒精</del>： 7千卡/克</li>
+</ul>
+<p>##　能量平衡</p>
+<ul>
+<li>能量摄入 = 能量消耗</li>
+<li>营养素比例合理</li>
+</ul>
+<p>摄入量计算</p>
+<ul>
+<li>身高体重 –标准体重计算</li>
+<li>活动量 –日消耗能量/千克</li>
+<li>三大能量的比例：蛋白质为10%～15%，脂类为20%～30%，碳水化合物为55%～65%</li>
+</ul>
+<p>计算得出每日所需三大能量数量</p>
+<p>摄入：</p>
+<ul>
+<li>碳水化合物 ： 米面、 粗粮和谷薯</li>
+<li>蛋白质：  鸡蛋、牛奶、肉类或鱼类</li>
+<li>脂肪： 植物油和动物油各一半 （鱼虾海藻多吃）</li>
+</ul>
+<h1 id="蛋白质平衡"><a href="#蛋白质平衡" class="headerlink" title="蛋白质平衡"></a>蛋白质平衡</h1><p>蛋白质是人体主要构成成分，参与修复组织损伤、身体发育</p>
+<p>动物蛋白优于植物蛋白 （大豆蛋白含量高但氨基酸不完整）</p>
+<p>氨基酸构成与人体相同的被称为优质蛋白，多为动物蛋白</p>
+<p>动物蛋白要占一半</p>
+<p>#　碳水化合物平衡</p>
+<p>作用是为人体提供能量</p>
+<p>又称之为糖类，提供的能量最多</p>
+<p>摄入主要靠谷薯杂豆等粮食类主食</p>
+<p>碳水化合物失衡表现：血糖不正常、腹部肥胖</p>
+<h1 id="脂类平衡"><a href="#脂类平衡" class="headerlink" title="脂类平衡"></a>脂类平衡</h1><p>提供热量、构建细胞膜、保护脏器（例如防止胃下垂）</p>
+<p>摄入：肉油蛋奶、植物油和坚果等</p>
+<p>应该饱和脂肪酸、单不饱和脂肪酸、多不饱和脂肪酸各占10%</p>
+<p>比较简单的配比方式是动物脂肪和植物脂肪各一半</p>
+<h1 id="维生素平衡"><a href="#维生素平衡" class="headerlink" title="维生素平衡"></a>维生素平衡</h1><p>维生素</p>
+<h1 id="矿物质平衡"><a href="#矿物质平衡" class="headerlink" title="矿物质平衡"></a>矿物质平衡</h1><p>补钙：喝牛奶、吃虾皮、芝麻、海带    吸收钙需要维生素D</p>
+<p>镁：人体的激活剂，新鲜的绿叶菜（开水闷一下）和海产品</p>
+<p>抽筋可能因为缺钙或者缺镁</p>
+<p>缺铁：口角炎、贫血   补铁： 牛肉、动物肝脏、鸡肉  Vc有助于吸收</p>
+<p>锌：发育迟缓，食欲不振   补锌：牡蛎、动物内脏</p>
+<p><img src="https://res.weread.qq.com/wrepub/epub_920661_33" alt="常量元素对照表"></p>
+<p><img src="https://res.weread.qq.com/wrepub/epub_920661_34" alt="微量元素对照表"></p>
+<h1 id="膳食纤维平衡"><a href="#膳食纤维平衡" class="headerlink" title="膳食纤维平衡"></a>膳食纤维平衡</h1><p>分为可溶性膳食纤维和不可溶性膳食纤维  可溶性为肠道细菌提供能量，不可溶性促进肠胃蠕动、降低血糖</p>
+<p>膳食纤维平衡失调的表现：肥胖、血糖高、便秘、营养不良</p>
+<p>摄入主要靠水果和蔬菜（主要叶菜类和菇类、水果连皮吃</p>
+<h1 id="水平衡"><a href="#水平衡" class="headerlink" title="水平衡"></a>水平衡</h1><p>每日饮水 1200~1500ML，根据口渴、尿的频率和颜色判断</p>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>人的身体状况平衡可分为两种：高平衡和低平衡。</p>
+<p>运动多，思考多，饮食不挑嘴，荤素通吃，能够保持标准的体重和旺盛的工作精力，这叫高平衡。</p>
+<p>不爱运动，也不爱动脑子，吃饭时每样都吃一点，也是荤素通吃，体重正常，化验正常，但是这个人的动作总像是慢半拍，有点与世无争的样子，这叫低平衡。</p>
+<p>学会倾听自己身体的语言，适量饮食</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>营养学</tag>
+        <tag>健康</tag>
       </tags>
   </entry>
   <entry>
@@ -357,126 +482,6 @@
       <tags>
         <tag>MySQL</tag>
         <tag>数据库</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>你是你吃出来的 -读书笔记</title>
-    <url>//4f8eb4eb.html</url>
-    <content><![CDATA[<h1 id="七大营养素"><a href="#七大营养素" class="headerlink" title="七大营养素"></a>七大营养素</h1><h2 id="成分"><a href="#成分" class="headerlink" title="成分"></a>成分</h2><ul>
-<li>碳水化合物(糖类,包括葡萄糖 果糖 麦芽糖 淀粉等)</li>
-<li>蛋白质 (分为必需氨基酸和非必需氨基酸)</li>
-<li>脂类 (分为脂肪和类脂，脂肪又叫甘油三酯，分为必需脂肪酸和非必需脂肪酸；类脂包括磷脂、胆固醇、胆固醇脂、糖脂)</li>
-<li>维生素 (分为脂溶性 和 水溶性)</li>
-<li>矿物质 (分为常量元素和微量元素)</li>
-<li>膳食纤维 (分为可溶性和不可溶性)</li>
-<li>水</li>
-</ul>
-<a id="more"></a>   
-
-<h2 id="对细胞的作用"><a href="#对细胞的作用" class="headerlink" title="对细胞的作用"></a>对细胞的作用</h2><ul>
-<li>为细胞新陈代谢提供能量   - 碳水化合物</li>
-<li>为新生细胞更新提供结构原料 - 蛋白质类和脂类</li>
-<li>为新陈代谢提供媒介（酶） - 蛋白质类和胆固醇类 维生素和矿物质</li>
-<li>养肠道细菌 - 膳食纤维</li>
-</ul>
-<h1 id="饮食结构"><a href="#饮食结构" class="headerlink" title="饮食结构"></a>饮食结构</h1><p>植食性食物 65%  水果、蔬菜、坚果、豆类和蜂蜜</p>
-<p>动物性食物 35%  肉类、蛋类、鱼和虾贝类</p>
-<p>注重保持营养素的比例合理</p>
-<p>转化关系</p>
-<ul>
-<li><p>碳水化合物 &lt;-&gt; 脂肪</p>
-</li>
-<li><p>蛋白质 -&gt; 碳水化合物</p>
-<p>碳水化合物和脂肪只能转化为非必需氨基酸</p>
-</li>
-</ul>
-<blockquote>
-<p>必需氨基酸必须从外界获取， 无法转化得来</p>
-</blockquote>
-<p>食物吸收顺序</p>
-<ul>
-<li>碳水化合物 -&gt; 脂肪和蛋白质</li>
-</ul>
-<p>营养/能量比例：</p>
-<ul>
-<li>运动量小：底能量密度、高营养密度</li>
-<li>运动量大：高能量密度、低营养密度</li>
-</ul>
-<p>地中海式饮食： 低能量高营养、  能有效预防高血压、高血脂、糖尿病等现代慢病</p>
-<ul>
-<li>鱼类、坚果、蔬菜和水果</li>
-</ul>
-<h1 id="能量平衡"><a href="#能量平衡" class="headerlink" title="能量平衡"></a>能量平衡</h1><h2 id="能量消耗"><a href="#能量消耗" class="headerlink" title="能量消耗"></a>能量消耗</h2><ul>
-<li>基础代谢</li>
-<li>运动</li>
-<li>食物消化</li>
-</ul>
-<p>食物的消化也需要消耗能量，这被称为食物的动力效应</p>
-<ul>
-<li>蛋白质：30%</li>
-<li>碳水化合物和脂肪：5%</li>
-</ul>
-<p>产能营养素</p>
-<ul>
-<li>碳水化合物：4千卡/克</li>
-<li>脂肪： 4千卡/克</li>
-<li>蛋白质： 9千卡/克</li>
-<li><del>酒精</del>： 7千卡/克</li>
-</ul>
-<p>##　能量平衡</p>
-<ul>
-<li>能量摄入 = 能量消耗</li>
-<li>营养素比例合理</li>
-</ul>
-<p>摄入量计算</p>
-<ul>
-<li>身高体重 –标准体重计算</li>
-<li>活动量 –日消耗能量/千克</li>
-<li>三大能量的比例：蛋白质为10%～15%，脂类为20%～30%，碳水化合物为55%～65%</li>
-</ul>
-<p>计算得出每日所需三大能量数量</p>
-<p>摄入：</p>
-<ul>
-<li>碳水化合物 ： 米面、 粗粮和谷薯</li>
-<li>蛋白质：  鸡蛋、牛奶、肉类或鱼类</li>
-<li>脂肪： 植物油和动物油各一半 （鱼虾海藻多吃）</li>
-</ul>
-<h1 id="蛋白质平衡"><a href="#蛋白质平衡" class="headerlink" title="蛋白质平衡"></a>蛋白质平衡</h1><p>蛋白质是人体主要构成成分，参与修复组织损伤、身体发育</p>
-<p>动物蛋白优于植物蛋白 （大豆蛋白含量高但氨基酸不完整）</p>
-<p>氨基酸构成与人体相同的被称为优质蛋白，多为动物蛋白</p>
-<p>动物蛋白要占一半</p>
-<p>#　碳水化合物平衡</p>
-<p>作用是为人体提供能量</p>
-<p>又称之为糖类，提供的能量最多</p>
-<p>摄入主要靠谷薯杂豆等粮食类主食</p>
-<p>碳水化合物失衡表现：血糖不正常、腹部肥胖</p>
-<h1 id="脂类平衡"><a href="#脂类平衡" class="headerlink" title="脂类平衡"></a>脂类平衡</h1><p>提供热量、构建细胞膜、保护脏器（例如防止胃下垂）</p>
-<p>摄入：肉油蛋奶、植物油和坚果等</p>
-<p>应该饱和脂肪酸、单不饱和脂肪酸、多不饱和脂肪酸各占10%</p>
-<p>比较简单的配比方式是动物脂肪和植物脂肪各一半</p>
-<h1 id="维生素平衡"><a href="#维生素平衡" class="headerlink" title="维生素平衡"></a>维生素平衡</h1><p>维生素</p>
-<h1 id="矿物质平衡"><a href="#矿物质平衡" class="headerlink" title="矿物质平衡"></a>矿物质平衡</h1><p>补钙：喝牛奶、吃虾皮、芝麻、海带    吸收钙需要维生素D</p>
-<p>镁：人体的激活剂，新鲜的绿叶菜（开水闷一下）和海产品</p>
-<p>抽筋可能因为缺钙或者缺镁</p>
-<p>缺铁：口角炎、贫血   补铁： 牛肉、动物肝脏、鸡肉  Vc有助于吸收</p>
-<p>锌：发育迟缓，食欲不振   补锌：牡蛎、动物内脏</p>
-<p><img src="https://res.weread.qq.com/wrepub/epub_920661_33" alt="常量元素对照表"></p>
-<p><img src="https://res.weread.qq.com/wrepub/epub_920661_34" alt="微量元素对照表"></p>
-<h1 id="膳食纤维平衡"><a href="#膳食纤维平衡" class="headerlink" title="膳食纤维平衡"></a>膳食纤维平衡</h1><p>分为可溶性膳食纤维和不可溶性膳食纤维  可溶性为肠道细菌提供能量，不可溶性促进肠胃蠕动、降低血糖</p>
-<p>膳食纤维平衡失调的表现：肥胖、血糖高、便秘、营养不良</p>
-<p>摄入主要靠水果和蔬菜（主要叶菜类和菇类、水果连皮吃</p>
-<h1 id="水平衡"><a href="#水平衡" class="headerlink" title="水平衡"></a>水平衡</h1><p>每日饮水 1200~1500ML，根据口渴、尿的频率和颜色判断</p>
-<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>人的身体状况平衡可分为两种：高平衡和低平衡。</p>
-<p>运动多，思考多，饮食不挑嘴，荤素通吃，能够保持标准的体重和旺盛的工作精力，这叫高平衡。</p>
-<p>不爱运动，也不爱动脑子，吃饭时每样都吃一点，也是荤素通吃，体重正常，化验正常，但是这个人的动作总像是慢半拍，有点与世无争的样子，这叫低平衡。</p>
-<p>学会倾听自己身体的语言，适量饮食</p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>营养学</tag>
-        <tag>健康</tag>
       </tags>
   </entry>
   <entry>
@@ -795,9 +800,9 @@
 
  <a id="more"></a>
 
-<h2 id="常见编程概念"><a href="#常见编程概念" class="headerlink" title="常见编程概念"></a>常见编程概念</h2><h3 id="变量与可变性"><a href="#变量与可变性" class="headerlink" title="变量与可变性"></a>变量与可变性</h3><p>使用<code>let</code>声明变量,变量默认不可变,使用<code>mut</code>使可变</p>
+<h1 id="常见编程概念"><a href="#常见编程概念" class="headerlink" title="常见编程概念"></a>常见编程概念</h1><h2 id="变量与可变性"><a href="#变量与可变性" class="headerlink" title="变量与可变性"></a>变量与可变性</h2><p>使用<code>let</code>声明变量,变量默认不可变,使用<code>mut</code>使可变</p>
 <p>重复声明变量会发生变量遮罩(shadowing)</p>
-<h3 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h3><h4 id="标量型"><a href="#标量型" class="headerlink" title="标量型"></a>标量型</h4><h5 id="整型"><a href="#整型" class="headerlink" title="整型"></a>整型</h5><table>
+<h2 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h2><h4 id="标量型"><a href="#标量型" class="headerlink" title="标量型"></a>标量型</h4><h5 id="整型"><a href="#整型" class="headerlink" title="整型"></a>整型</h5><table>
 <thead>
 <tr>
 <th align="left">长度</th>
@@ -840,32 +845,32 @@
 <h5 id="布尔型"><a href="#布尔型" class="headerlink" title="布尔型"></a>布尔型</h5><p><code>true</code> 和<code>false</code> </p>
 <h5 id="字符类型"><a href="#字符类型" class="headerlink" title="字符类型"></a>字符类型</h5><p><code>char</code>  使用Unicode编码</p>
 <h4 id="复合类型"><a href="#复合类型" class="headerlink" title="复合类型"></a>复合类型</h4><p>Rust的复合类型都是异构的</p>
-<h5 id="元组-turple"><a href="#元组-turple" class="headerlink" title="元组 ( turple )"></a>元组 ( turple )</h5><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> tup: (<span class="built_in">i32</span>, <span class="built_in">f64</span>, <span class="built_in">u8</span>) = (<span class="number">500</span>, <span class="number">6.4</span>, <span class="number">1</span>); <span class="comment">//指定类型创建元组</span></span><br><span class="line"><span class="keyword">let</span> (x, y, z) = tup; <span class="comment">//解构</span></span><br><span class="line"><span class="keyword">let</span> five_hundred = tup.<span class="number">0</span>; <span class="comment">//指定索引访问</span></span><br></pre></td></tr></table></figure>
+<h5 id="元组-tuple"><a href="#元组-tuple" class="headerlink" title="元组 ( tuple )"></a>元组 ( tuple )</h5><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> tup: (<span class="built_in">i32</span>, <span class="built_in">f64</span>, <span class="built_in">u8</span>) = (<span class="number">500</span>, <span class="number">6.4</span>, <span class="number">1</span>); <span class="comment">//指定类型创建元组</span></span><br><span class="line"><span class="keyword">let</span> (x, y, z) = tup; <span class="comment">//解构</span></span><br><span class="line"><span class="keyword">let</span> five_hundred = tup.<span class="number">0</span>; <span class="comment">//指定索引访问</span></span><br></pre></td></tr></table></figure>
 
 <h5 id="数组-array"><a href="#数组-array" class="headerlink" title="数组 ( array )"></a>数组 ( array )</h5><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> a: [<span class="built_in">i32</span>; <span class="number">5</span>] = [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">4</span>, <span class="number">5</span>]; <span class="comment">//指定类型和各个位置元素的值</span></span><br><span class="line"><span class="keyword">let</span> first = a[<span class="number">0</span>]; <span class="comment">//按索引访问</span></span><br><span class="line"><span class="keyword">let</span> b = [<span class="number">3</span>; <span class="number">5</span>]; <span class="comment">//5个3 [T;num]</span></span><br></pre></td></tr></table></figure>
 
-<h3 id="函数"><a href="#函数" class="headerlink" title="函数"></a>函数</h3><p>使用关键字<code>fn</code>声明函数</p>
+<h2 id="函数"><a href="#函数" class="headerlink" title="函数"></a>函数</h2><p>使用关键字<code>fn</code>声明函数</p>
 <figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">fn</span> <span class="title">five</span></span>() -&gt; <span class="built_in">i32</span> &#123;</span><br><span class="line">    <span class="number">5</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <blockquote>
 <p>语句与表达式: </p>
 <p>语句是一条执行的命令,以分号结束. 表达式是一个值/字面量, 语句块默认以最后的表达式作为返回值</p>
 </blockquote>
-<h3 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h3><p>使用<code>//</code>作为单行注释,使用<code>/* */</code>作为多行注释   </p>
+<h2 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h2><p>使用<code>//</code>作为单行注释,使用<code>/* */</code>作为多行注释   </p>
 <p>文档注释 <strong>待补充</strong></p>
-<h3 id="控制流"><a href="#控制流" class="headerlink" title="控制流"></a>控制流</h3><h4 id="if-条件表达式"><a href="#if-条件表达式" class="headerlink" title="if 条件表达式"></a><code>if</code> 条件表达式</h4><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> number % <span class="number">4</span> == <span class="number">0</span> &#123;</span><br><span class="line">        <span class="built_in">println!</span>(<span class="string">&quot;number is divisible by 4&quot;</span>);</span><br><span class="line">    &#125; <span class="keyword">else</span> <span class="keyword">if</span> number % <span class="number">3</span> == <span class="number">0</span> &#123;</span><br><span class="line">        <span class="built_in">println!</span>(<span class="string">&quot;number is divisible by 3&quot;</span>);</span><br><span class="line">    &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">        <span class="built_in">println!</span>(<span class="string">&quot;number is not divisible by 4, 3, or 2&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">let</span> number = <span class="keyword">if</span> condition &#123; <span class="number">5</span> &#125; <span class="keyword">else</span> &#123; <span class="number">6</span> &#125;;  <span class="comment">//if表达式有返回值</span></span><br></pre></td></tr></table></figure>
+<h2 id="控制流"><a href="#控制流" class="headerlink" title="控制流"></a>控制流</h2><h3 id="if-条件表达式"><a href="#if-条件表达式" class="headerlink" title="if 条件表达式"></a><code>if</code> 条件表达式</h3><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> number % <span class="number">4</span> == <span class="number">0</span> &#123;</span><br><span class="line">        <span class="built_in">println!</span>(<span class="string">&quot;number is divisible by 4&quot;</span>);</span><br><span class="line">    &#125; <span class="keyword">else</span> <span class="keyword">if</span> number % <span class="number">3</span> == <span class="number">0</span> &#123;</span><br><span class="line">        <span class="built_in">println!</span>(<span class="string">&quot;number is divisible by 3&quot;</span>);</span><br><span class="line">    &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">        <span class="built_in">println!</span>(<span class="string">&quot;number is not divisible by 4, 3, or 2&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">let</span> number = <span class="keyword">if</span> condition &#123; <span class="number">5</span> &#125; <span class="keyword">else</span> &#123; <span class="number">6</span> &#125;;  <span class="comment">//if表达式有返回值</span></span><br></pre></td></tr></table></figure>
 
-<h4 id="循环"><a href="#循环" class="headerlink" title="循环"></a>循环</h4><h5 id="loop"><a href="#loop" class="headerlink" title="loop"></a><code>loop</code></h5><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">loop</span> &#123;</span><br><span class="line">        <span class="built_in">println!</span>(<span class="string">&quot;again!&quot;</span>);  <span class="comment">//无限循环</span></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">let</span> result = <span class="keyword">loop</span> &#123;</span><br><span class="line">        counter += <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">if</span> counter == <span class="number">10</span> &#123;</span><br><span class="line">            <span class="keyword">break</span> counter * <span class="number">2</span>;  <span class="comment">//返回值</span></span><br><span class="line">        &#125;</span><br><span class="line">    &#125;;</span><br></pre></td></tr></table></figure>
+<h3 id="循环"><a href="#循环" class="headerlink" title="循环"></a>循环</h3><h5 id="loop"><a href="#loop" class="headerlink" title="loop"></a><code>loop</code></h5><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">loop</span> &#123;</span><br><span class="line">        <span class="built_in">println!</span>(<span class="string">&quot;again!&quot;</span>);  <span class="comment">//无限循环</span></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">let</span> result = <span class="keyword">loop</span> &#123;</span><br><span class="line">        counter += <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">if</span> counter == <span class="number">10</span> &#123;</span><br><span class="line">            <span class="keyword">break</span> counter * <span class="number">2</span>;  <span class="comment">//返回值</span></span><br><span class="line">        &#125;</span><br><span class="line">    &#125;;</span><br></pre></td></tr></table></figure>
 
 <h5 id="while"><a href="#while" class="headerlink" title="while"></a><code>while</code></h5><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> number != <span class="number">0</span> &#123;</span><br><span class="line">       <span class="built_in">println!</span>(<span class="string">&quot;&#123;&#125;!&quot;</span>, number);</span><br><span class="line">       number = number - <span class="number">1</span>;</span><br><span class="line">   &#125;</span><br></pre></td></tr></table></figure>
 
 <h5 id="for"><a href="#for" class="headerlink" title="for"></a><code>for</code></h5><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> element <span class="keyword">in</span> a.iter() &#123;</span><br><span class="line">              <span class="keyword">let</span> a = [<span class="number">10</span>, <span class="number">20</span>, <span class="number">30</span>, <span class="number">40</span>, <span class="number">50</span>];</span><br><span class="line">        <span class="built_in">println!</span>(<span class="string">&quot;the value is: &#123;&#125;&quot;</span>, element);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> number <span class="keyword">in</span> (<span class="number">1</span>..<span class="number">4</span>).rev() &#123;</span><br><span class="line">        <span class="built_in">println!</span>(<span class="string">&quot;&#123;&#125;!&quot;</span>, number);</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
 
-<h2 id="所有权"><a href="#所有权" class="headerlink" title="所有权"></a>所有权</h2><p>让Rust无需GC的同时实现安全的内存管理</p>
-<h4 id="栈-Stack-和堆-Heap"><a href="#栈-Stack-和堆-Heap" class="headerlink" title="栈(Stack)和堆(Heap)"></a>栈(Stack)和堆(Heap)</h4><p>栈中数据后进先出,所有数据必须已知固定大小,分配内存更快</p>
+<h1 id="所有权"><a href="#所有权" class="headerlink" title="所有权"></a>所有权</h1><p>让Rust无需GC的同时实现安全的内存管理</p>
+<h3 id="栈-Stack-和堆-Heap"><a href="#栈-Stack-和堆-Heap" class="headerlink" title="栈(Stack)和堆(Heap)"></a>栈(Stack)和堆(Heap)</h3><p>栈中数据后进先出,所有数据必须已知固定大小,分配内存更快</p>
 <p>堆上的数据是大小可能变化的数据,空间分配灵活但缺乏组织,访问更慢</p>
 <p>调用函数时,函数压入栈,函数中的变量放在堆上</p>
-<h3 id="所有权规则"><a href="#所有权规则" class="headerlink" title="所有权规则"></a>所有权规则</h3><blockquote>
+<h2 id="所有权规则"><a href="#所有权规则" class="headerlink" title="所有权规则"></a>所有权规则</h2><blockquote>
 <ol>
 <li>Rust 中的每一个值都有一个被称为其 <strong>所有者</strong>（<em>owner</em>）的变量。</li>
 <li>值在任一时刻有且只有一个所有者。</li>
@@ -874,22 +879,70 @@
 </blockquote>
 <figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">fn</span> <span class="title">main</span></span>() &#123;</span><br><span class="line">    <span class="keyword">let</span> s = <span class="built_in">String</span>::from(<span class="string">&quot;hello&quot;</span>);  <span class="comment">// s 进入作用域,获得字符串的所有权</span></span><br><span class="line">    takes_ownership(s);             <span class="comment">//s的所有权移动到函数里,s失效</span></span><br><span class="line">         <span class="keyword">let</span> s1 = gives_ownership();         <span class="comment">// s1获得一个字符串的所有权</span></span><br><span class="line">    <span class="keyword">let</span> s2 = <span class="built_in">String</span>::from(<span class="string">&quot;hello&quot;</span>);     <span class="comment">// s2 进入作用域</span></span><br><span class="line">    <span class="keyword">let</span> s3 = takes_and_gives_back(s2);  <span class="comment">// s2 的所有权被转移到函数中,函数转移所有权到s3中</span></span><br><span class="line">&#125; <span class="comment">//s s2 已经没有所有权,没有动作,s1 s3 回收内存</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">fn</span> <span class="title">takes_ownership</span></span>(some_string: <span class="built_in">String</span>) &#123; <span class="comment">//获得一个字符串的所有权,之后所有权随作用域消失</span></span><br><span class="line">    <span class="built_in">println!</span>(<span class="string">&quot;&#123;&#125;&quot;</span>, some_string);</span><br><span class="line">&#125;  <span class="comment">// 这里，some_string 移出作用域并调用 `drop` 方法。占用的内存被释放</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">fn</span> <span class="title">gives_ownership</span></span>() -&gt; <span class="built_in">String</span> &#123;             <span class="comment">// gives_ownership 将返回值移动给调用它的函数</span></span><br><span class="line">    <span class="keyword">let</span> some_string = <span class="built_in">String</span>::from(<span class="string">&quot;hello&quot;</span>); <span class="comment">// some_string 进入作用域.</span></span><br><span class="line">    some_string                              <span class="comment">// 返回 some_string 并移出给调用的函数</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 返回 a_string 并移出给调用的函数</span></span><br><span class="line"><span class="function"><span class="keyword">fn</span> <span class="title">takes_and_gives_back</span></span>(a_string: <span class="built_in">String</span>) -&gt; <span class="built_in">String</span> &#123;</span><br><span class="line">    a_string</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<h3 id="引用和借用"><a href="#引用和借用" class="headerlink" title="引用和借用"></a>引用和借用</h3><p><code>&amp;</code> 获取一个变量的值,但不获得它的所有权,称为引用</p>
+<h2 id="引用和借用"><a href="#引用和借用" class="headerlink" title="引用和借用"></a>引用和借用</h2><p><code>&amp;</code> 获取一个变量的值,但不获得它的所有权,称为引用</p>
 <p>获取引用作为函数参数称为 <strong>借用</strong>（<em>borrowing</em>）</p>
 <p>引用默认不可变,只能有一个可变引用或者多个不可变引用,引用必须总是有效的(避免悬垂引用)</p>
 <figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> <span class="keyword">mut</span> s = <span class="built_in">String</span>::from(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">let</span> r1 = &amp;s; <span class="comment">// 没问题</span></span><br><span class="line"><span class="keyword">let</span> r2 = &amp;s; <span class="comment">// 多个不可变引用,没问题</span></span><br><span class="line"><span class="built_in">println!</span>(<span class="string">&quot;&#123;&#125; and &#123;&#125;&quot;</span>, r1, r2); <span class="comment">//引用r1和r2被使用,失效</span></span><br><span class="line"><span class="comment">// 此位置之后 r1 和 r2 不再使用</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">fn</span> <span class="title">dangle</span></span>() -&gt; &amp;<span class="built_in">String</span> &#123;</span><br><span class="line">    <span class="keyword">let</span> s = <span class="built_in">String</span>::from(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    &amp;s   </span><br><span class="line">&#125;               <span class="comment">//! 作用域结束后s被清理,引用失效,出现悬垂引用,编译器报错</span></span><br></pre></td></tr></table></figure>
 
-<h3 id="Slices"><a href="#Slices" class="headerlink" title="Slices"></a>Slices</h3><p><code>String</code>的切片类型是<code>&amp;str</code> ,<code>i32</code>数组的类型是<code>&amp;[i32]</code></p>
+<h2 id="Slices"><a href="#Slices" class="headerlink" title="Slices"></a>Slices</h2><p><code>String</code>的切片类型是<code>&amp;str</code> ,<code>i32</code>数组的类型是<code>&amp;[i32]</code></p>
 <figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">fn</span> <span class="title">main</span></span>() &#123;</span><br><span class="line">    <span class="keyword">let</span> <span class="keyword">mut</span> s = <span class="built_in">String</span>::from(<span class="string">&quot;hello world&quot;</span>);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">let</span> word = first_word(&amp;s[..]);  <span class="comment">//word获得一个不可变引用</span></span><br><span class="line"></span><br><span class="line">    s.clear(); <span class="comment">// 错误! 尝试获得可变引用, 失败, 因为已经有不可变引用</span></span><br><span class="line"></span><br><span class="line">    <span class="built_in">println!</span>(<span class="string">&quot;the first word is: &#123;&#125;&quot;</span>, word);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">fn</span> <span class="title">first_word</span></span>(s: &amp;<span class="built_in">str</span>) -&gt; &amp;<span class="built_in">str</span> &#123;</span><br><span class="line">    <span class="keyword">let</span> bytes = s.as_bytes();</span><br><span class="line">    <span class="keyword">for</span> (i, &amp;item) <span class="keyword">in</span> bytes.iter().enumerate() &#123;</span><br><span class="line">        <span class="keyword">if</span> item == <span class="string">b&#x27; &#x27;</span> &#123;</span><br><span class="line">            <span class="keyword">return</span> &amp;s[<span class="number">0</span>..i];</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    &amp;s[..]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<h2 id="结构体-Struct"><a href="#结构体-Struct" class="headerlink" title="结构体 ( Struct )"></a>结构体 ( Struct )</h2><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">Rectangle</span></span> &#123;  <span class="comment">//定义结构体</span></span><br><span class="line">    width: <span class="built_in">u32</span>,</span><br><span class="line">    height: <span class="built_in">u32</span>,</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">impl</span> Rectangle &#123;   <span class="comment">//定义方法</span></span><br><span class="line">    <span class="function"><span class="keyword">fn</span> <span class="title">area</span></span>(&amp;<span class="keyword">self</span>) -&gt; <span class="built_in">u32</span> &#123;   <span class="comment">//需要&amp;self,实例方法</span></span><br><span class="line">        <span class="keyword">self</span>.width * <span class="keyword">self</span>.height</span><br><span class="line">    &#125;</span><br><span class="line">      <span class="function"><span class="keyword">fn</span> <span class="title">square</span></span>(size: <span class="built_in">u32</span>) -&gt; Rectangle &#123;  <span class="comment">//不需要&amp;self,关联函数</span></span><br><span class="line">        Rectangle &#123; width: size, height: size &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">Color</span></span>(<span class="built_in">i32</span>, <span class="built_in">i32</span>, <span class="built_in">i32</span>);  <span class="comment">//元组结构体</span></span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">WriteMessage</span></span>(<span class="built_in">String</span>); <span class="comment">// 元组结构体</span></span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">QuitMessage</span></span>;<span class="comment">//类单元结构体 (没有字段,实现trait)</span></span><br></pre></td></tr></table></figure>
+<h1 id="结构体-Struct"><a href="#结构体-Struct" class="headerlink" title="结构体 ( Struct )"></a>结构体 ( Struct )</h1><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">Rectangle</span></span> &#123;  <span class="comment">//定义结构体</span></span><br><span class="line">    width: <span class="built_in">u32</span>,</span><br><span class="line">    height: <span class="built_in">u32</span>,</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">impl</span> Rectangle &#123;   <span class="comment">//定义方法</span></span><br><span class="line">    <span class="function"><span class="keyword">fn</span> <span class="title">area</span></span>(&amp;<span class="keyword">self</span>) -&gt; <span class="built_in">u32</span> &#123;   <span class="comment">//需要&amp;self,实例方法</span></span><br><span class="line">        <span class="keyword">self</span>.width * <span class="keyword">self</span>.height</span><br><span class="line">    &#125;</span><br><span class="line">      <span class="function"><span class="keyword">fn</span> <span class="title">square</span></span>(size: <span class="built_in">u32</span>) -&gt; Rectangle &#123;  <span class="comment">//不需要&amp;self,关联函数</span></span><br><span class="line">        Rectangle &#123; width: size, height: size &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">Color</span></span>(<span class="built_in">i32</span>, <span class="built_in">i32</span>, <span class="built_in">i32</span>);  <span class="comment">//元组结构体</span></span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">WriteMessage</span></span>(<span class="built_in">String</span>); <span class="comment">// 元组结构体</span></span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">QuitMessage</span></span>;<span class="comment">//类单元结构体 (没有字段,实现trait)</span></span><br></pre></td></tr></table></figure>
 
 <p>参数名和字段名相同时可以简写(类似JavaScript),还有<code>..user1</code>的写法也类似</p>
-<h2 id="枚举与模式匹配"><a href="#枚举与模式匹配" class="headerlink" title="枚举与模式匹配"></a>枚举与模式匹配</h2><h3 id="定义枚举"><a href="#定义枚举" class="headerlink" title="定义枚举"></a>定义枚举</h3><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">enum</span> <span class="title">IpAddrKind</span></span> &#123;</span><br><span class="line">    V4,</span><br><span class="line">    V6,</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">enum</span> <span class="title">Message</span></span> &#123;</span><br><span class="line">    Quit,</span><br><span class="line">    Move &#123; x: <span class="built_in">i32</span>, y: <span class="built_in">i32</span> &#125;,</span><br><span class="line">    Write(<span class="built_in">String</span>),</span><br><span class="line">    ChangeColor(<span class="built_in">i32</span>, <span class="built_in">i32</span>, <span class="built_in">i32</span>),</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">impl</span> Message &#123;</span><br><span class="line">    <span class="function"><span class="keyword">fn</span> <span class="title">call</span></span>(&amp;<span class="keyword">self</span>) &#123;</span><br><span class="line">        <span class="comment">// 在这里定义方法体</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h1 id="枚举与模式匹配"><a href="#枚举与模式匹配" class="headerlink" title="枚举与模式匹配"></a>枚举与模式匹配</h1><h2 id="枚举"><a href="#枚举" class="headerlink" title="枚举"></a>枚举</h2><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">enum</span> <span class="title">IpAddrKind</span></span> &#123;</span><br><span class="line">    V4,</span><br><span class="line">    V6,</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">enum</span> <span class="title">Message</span></span> &#123;</span><br><span class="line">    Quit,</span><br><span class="line">    Move &#123; x: <span class="built_in">i32</span>, y: <span class="built_in">i32</span> &#125;,</span><br><span class="line">    Write(<span class="built_in">String</span>),</span><br><span class="line">    ChangeColor(<span class="built_in">i32</span>, <span class="built_in">i32</span>, <span class="built_in">i32</span>),</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">impl</span> Message &#123;</span><br><span class="line">    <span class="function"><span class="keyword">fn</span> <span class="title">call</span></span>(&amp;<span class="keyword">self</span>) &#123;</span><br><span class="line">        <span class="comment">// 在这里定义方法体</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <h3 id="Option枚举"><a href="#Option枚举" class="headerlink" title="Option枚举"></a>Option枚举</h3><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">enum</span> <span class="title">Option</span></span>&lt;T&gt; &#123;</span><br><span class="line">    <span class="literal">Some</span>(T),</span><br><span class="line">    <span class="literal">None</span>,</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-]]></content>
+<blockquote>
+<p>Rust中没有NULL值，使用Option枚举意味着需要处理所有可能为NULL的情况</p>
+</blockquote>
+<h2 id="match控制流运算符"><a href="#match控制流运算符" class="headerlink" title="match控制流运算符"></a>match控制流运算符</h2><p>可以保证所有情况都得到处理</p>
+<figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">match</span> x&#123;</span><br><span class="line">  a =&gt; xxxx,</span><br><span class="line">  b =&gt; xxxx,</span><br><span class="line">  _ =&gt; xxxx, <span class="comment">//通配符，表示匹配剩余的所有情况</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="if-let-简单控制流"><a href="#if-let-简单控制流" class="headerlink" title="if let 简单控制流"></a>if let 简单控制流</h2><p>如果只需要关心模式匹配的一个结果，可以使用<code>if let</code></p>
+<figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> <span class="keyword">let</span> 值 = 匹配结果&#123;</span><br><span class="line">  <span class="comment">//!TODO</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h1 id="包-create和模块"><a href="#包-create和模块" class="headerlink" title="包, create和模块"></a>包, create和模块</h1><h2 id="包和create"><a href="#包和create" class="headerlink" title="包和create"></a>包和create</h2><p><code>create</code>是一个二进制项或者库,<code>包</code>(package)是提供功能的一个或者多个<code>create</code></p>
+<p><code>包</code>包含一个<code>Cargo.toml</code>来描述如何构建这些<code>create</code></p>
+<p><code>src/main.rs</code>和<code>src/lib.rs</code>是<code>create</code>模块的根,名字就叫<code>create</code>,他们是create的模块树的根</p>
+<p>包中包含内容的规则:</p>
+<ul>
+<li>一个包中最多只能有一个<code>库create(library create)</code></li>
+<li>包中可以包含任意多个二进制<code>create(binary create)</code></li>
+<li>包中至少有一个<code>create</code></li>
+</ul>
+<p>每个<code>src/bin</code>目录下的文件都是一个独立的二进制create</p>
+<h2 id="定义模块来控制作用域与私有性"><a href="#定义模块来控制作用域与私有性" class="headerlink" title="定义模块来控制作用域与私有性"></a>定义模块来控制作用域与私有性</h2><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">mod</span> xxxx&#123;</span><br><span class="line">  <span class="comment">//定义一个模块</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="路径"><a href="#路径" class="headerlink" title="路径"></a>路径</h2><p>路径有两种:</p>
+<ul>
+<li>绝对路径:以<code>create</code>根开始</li>
+<li>相对路径:以<code>super</code>或者<code>self</code>开始</li>
+</ul>
+<blockquote>
+<p>路径以<code>::</code>分隔</p>
+</blockquote>
+<p>函数默认是私有的, 使用<code>pub</code>暴露</p>
+<p>私有性作用于模块 结构体 枚举 函数和方法</p>
+<p>结构体设置为共有之后, 结构体的字段依然是私有的   枚举成员默认是公有的</p>
+<h2 id="使用use关键字将名称引入作用域"><a href="#使用use关键字将名称引入作用域" class="headerlink" title="使用use关键字将名称引入作用域"></a>使用use关键字将名称引入作用域</h2><p>使用<code>use</code>+路径 将名称引入当前作用域</p>
+<p>使用<code>as</code>创建别名 <code>use xx as x</code></p>
+<h3 id="重导出"><a href="#重导出" class="headerlink" title="重导出"></a>重导出</h3><p><code>pub use</code> 可以用另一种结构导出代码,也就是导出代码的结构可以和实际编写代码的结构不同</p>
+<h3 id="使用外部包"><a href="#使用外部包" class="headerlink" title="使用外部包"></a>使用外部包</h3><figure class="highlight toml"><table><tr><td class="code"><pre><span class="line"><span class="section">[dependencies]</span></span><br><span class="line"><span class="attr">rand</span> = <span class="string">&quot;0.5.5&quot;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="嵌套路径减少use使用"><a href="#嵌套路径减少use使用" class="headerlink" title="嵌套路径减少use使用"></a>嵌套路径减少use使用</h3><figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">use</span> std::&#123;cmp::Ordering, io&#125;; <span class="comment">// use std::cmp::Ordering; use std::io;</span></span><br><span class="line"><span class="keyword">use</span> std::io::&#123;<span class="keyword">self</span>, Write&#125;; <span class="comment">//use std::io; use std::io::Write;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">use</span> std::collections::*;</span><br></pre></td></tr></table></figure>
+
+<h3 id="分割代码到多个文件中"><a href="#分割代码到多个文件中" class="headerlink" title="分割代码到多个文件中"></a>分割代码到多个文件中</h3><p> <code>scr/lib.rs</code></p>
+<figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">mod</span> front_of_house;  <span class="comment">//使用分号而不是｛｝代表在另一个同名文件中加载文件</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">pub</span> <span class="keyword">use</span> crate::front_of_house::hosting;  <span class="comment">//重导出hosting模块的路径</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">pub</span> <span class="function"><span class="keyword">fn</span> <span class="title">eat_at_restaurant</span></span>() &#123;  <span class="comment">//使用重导出的add_to_waitlist()函数</span></span><br><span class="line">    hosting::add_to_waitlist();</span><br><span class="line">    hosting::add_to_waitlist();</span><br><span class="line">    hosting::add_to_waitlist();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><code>src/front_of_house.rs</code></p>
+<figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">pub</span> <span class="keyword">mod</span> hosting;<span class="comment">//从重名文件夹中载入</span></span><br></pre></td></tr></table></figure>
+
+<p><code>src/front_of_house/hosting.rs </code></p>
+<figure class="highlight rust"><table><tr><td class="code"><pre><span class="line"><span class="keyword">pub</span> <span class="function"><span class="keyword">fn</span> <span class="title">add_to_waitlist</span></span>() &#123;&#125;  <span class="comment">//定义位置</span></span><br></pre></td></tr></table></figure>
+
+<h1 id="常见集合"><a href="#常见集合" class="headerlink" title="常见集合"></a>常见集合</h1>]]></content>
       <categories>
         <category>笔记</category>
       </categories>
@@ -897,25 +950,6 @@
         <tag>编程语言</tag>
         <tag>Rust</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>//4a17b156.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<p>​      <a id="more"></a></p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
   <entry>
     <title>Vue笔记</title>
@@ -1203,5 +1237,24 @@
         <tag>python</tag>
         <tag>matplotlib</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>//4a17b156.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<p>​      <a id="more"></a></p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
 </search>
